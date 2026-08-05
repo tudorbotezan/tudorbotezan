@@ -4,7 +4,7 @@ Building the AI infrastructure behind manufacturing, logistics, and the physical
 
 ## Projects
 
-- [AIURION](https://aiurion.com) — AI-powered manufacturing software
+- [AIURION](https://aiurion.com) — AI-powered manufacturing software & Live SF-Based 3D Printing Operation
   
 - [EXVIV](https://exviv.com) — AI agent monitoring and infrastructure
   
