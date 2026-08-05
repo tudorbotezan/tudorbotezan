@@ -2,7 +2,7 @@
 
 Building the AI infrastructure behind manufacturing, logistics, and the physical economy.
 
-## Projects
+## Things I've recently built:
 
 - [AIURION](https://aiurion.com) — AI-powered manufacturing software & Live SF-Based 3D Printing Operation
   
