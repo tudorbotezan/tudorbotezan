@@ -1,6 +1,6 @@
 # Tudor Botezan
 
-Building the AI infrastructure behind manufacturing, logistics, and the physical economy.
+Systems architect building the AI infrastructure behind manufacturing, logistics, and the physical economy.
 
 ## Things I've recently built:
 
