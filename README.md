@@ -15,5 +15,6 @@ Building the AI infrastructure behind manufacturing, logistics, and the physical
 - [UNITE MFG](https://unitemfg.com) — US Manufacturing network
   
 - [UNITE CARGO](https://unitecargo.com) — US Logistics and cargo infrastructure
-  
+
+## Contact:
 Reach out on X: [@TudorBotezan](https://x.com/TudorBotezan)
