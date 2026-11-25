@@ -6,7 +6,7 @@ Systems architect building the AI infrastructure behind manufacturing, logistics
 
 - [AIURION](https://aiurion.com) — AI-powered manufacturing software & Live SF-Based 3D Printing Operation
   
-- [EXVIV](https://exviv.com) — AI agent monitoring and infrastructure
+- [EXVIV](https://exviv.com) — Competitor Intelligence Monitoring
   
 - [zigCUDA](https://github.com/aiurion/zigCUDA) — Open-source Zig bindings for the NVIDIA CUDA Driver API
   
